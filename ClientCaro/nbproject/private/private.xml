@@ -3,19 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/ListenServer.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/GomokuPvP.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/MyProfile.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/CGoban.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/Ranking.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/common/Users.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/Accept.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/inReceiveMessage.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/Main.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/JGoban.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/RoomFrame.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/LoginForm.java</file>
-            <file>file:/C:/KIET/TH_LTMMT/ClientCaro/src/caro/client/CComputer.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/Accept.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/LoginForm.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/MyProfile.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/Ranking.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/ListenServer.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/RoomFrame.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/CGoban.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/CComputer.java</file>
+            <file>file:/D:/Hutech/Lap_Trinh_Mang_May_Tinh/Do_An_Caro/ClientCaroJava/ClientCaro/src/caro/client/Main.java</file>
         </group>
     </open-files>
 </project-private>

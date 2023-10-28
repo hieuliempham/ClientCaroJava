@@ -326,29 +326,29 @@ public class Main extends javax.swing.JFrame implements inReceiveMessage{
 
     private void btncontinuteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btncontinuteActionPerformed
 //        // TODO add your handling code here:
-//       setTitle("Game Caro");
-//        
-//        setDefaultCloseOperation(EXIT_ON_CLOSE);
-//       //setSize(700, 565);
-//        
-//        
-//        setLayout(new BorderLayout());
-//        //windowPanel = new PanelBoard(socket);
-//        //add("Center", windowPanel);
-//        
-//        InitGame();
-//        setLocationRelativeTo(null);
-//        
-//        
-//        this.listenServer = listenServer;
-//        this.listenServer.receive = this;
-//        
-//        try {
-//            listenServer.SendMessage(28, null); //Lay thong tin 2 ng
-//            listenServer.SendMessage(30, null); //Lay thong tin 2 ng
-//        } catch (IOException ex) {
-//            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
-//        }
+       setTitle("Game Caro");
+        
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+       //setSize(700, 565);
+        
+        
+        setLayout(new BorderLayout());
+        //windowPanel = new PanelBoard(socket);
+        //add("Center", windowPanel);
+        
+        InitGame();
+        setLocationRelativeTo(null);
+        
+        
+        this.listenServer = listenServer;
+        this.listenServer.receive = this;
+        
+        try {
+            listenServer.SendMessage(28, null); //Lay thong tin 2 ng
+            listenServer.SendMessage(30, null); //Lay thong tin 2 ng
+        } catch (IOException ex) {
+            Logger.getLogger(Main.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }//GEN-LAST:event_btncontinuteActionPerformed
 
     private void txtSendChatActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtSendChatActionPerformed
